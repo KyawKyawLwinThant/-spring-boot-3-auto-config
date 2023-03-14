@@ -1,0 +1,3 @@
+com\demo\MyConfig.class
+META-INF\spring-autoconfigure-metadata.properties
+com\demo\GreetingBean.class
